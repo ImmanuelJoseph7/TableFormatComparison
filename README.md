@@ -1,4 +1,4 @@
-# SQL Server → Delta Table Migration Demo
+# A hands-on demo: converting a large CSV to a Delta Table and comparing the size
 
 ## Setup
 
