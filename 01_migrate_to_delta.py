@@ -1,5 +1,5 @@
 """
-02_migrate_to_delta.py
+01_migrate_to_delta.py
 Read from CSV, write to a local Delta Table, print size comparison.
 """
 

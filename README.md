@@ -22,8 +22,3 @@
    python 02_optimize_vacuum.py   # Compact files (OPTIMIZE) + remove old versions (VACUUM)
    python 03_encoding_demo.py     # Dictionary encoding breakdown
    ```
-
-4. Optional (SQL Server):
-   ```bash
-   python 05_load_to_sqlserver.py # Load CSV → SQL Server, print table size
-   ```
