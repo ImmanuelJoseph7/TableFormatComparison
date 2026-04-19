@@ -13,7 +13,6 @@
    # Edit .env with your Kaggle API key and SQL Server connection string
    ```
    - Kaggle API key: [kaggle.com/settings](https://www.kaggle.com/settings) → API → Create New Token
-   - SQL Server: any local or remote instance with a database you can write to
 
 3. Run in order:
    ```bash
