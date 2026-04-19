@@ -1,0 +1,7 @@
+pandas
+pyarrow
+deltalake
+sqlalchemy
+pyodbc
+kaggle
+python-dotenv
