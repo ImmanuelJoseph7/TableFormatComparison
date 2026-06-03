@@ -1,7 +1,7 @@
 [project]
 name = "table-format-comparison"
 version = "0.1.0"
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 dependencies = [
     "pandas==2.3.3",
     "pyarrow==23.0.1",
