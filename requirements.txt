@@ -1,5 +1,0 @@
-pandas
-pyarrow
-deltalake
-kaggle
-python-dotenv

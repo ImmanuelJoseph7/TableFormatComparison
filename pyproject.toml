@@ -1,0 +1,12 @@
+[project]
+name = "table-format-comparison"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas==2.3.3",
+    "pyarrow==23.0.1",
+    "deltalake==1.4.2",
+    "kaggle==2.0.1",
+    "python-dotenv==1.2.2",
+    "duckdb==1.4.4",
+]
